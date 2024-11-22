@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EndPoint.Console.App": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
